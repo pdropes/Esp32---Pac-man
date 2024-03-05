@@ -46,4 +46,4 @@ Changes:
 - Hiscore saved in internal flash
 - Slide-switch to select mode "off/charge" "on/mute" "on/sound"
 
-* It was my first time programming in C, it may not be perfect.
+It was my first time programming in C, it may not be perfect.
