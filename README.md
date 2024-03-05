@@ -3,7 +3,7 @@
 
 !!! NOTICE !!!
 
-![Pacman](doc/pac-man perspectiva.jpeg)
+![Pacman](doc/pac-man top.jpeg)
 
 ## Prepare
 - This board was designed to be possible to do at home; the battery is the BL-5B or BL-5C, and the speaker is 32ohms from the 3310.
@@ -13,7 +13,7 @@
 
 ## Development Environment
 - [Arduino IDE](https://www.arduino.cc/en/main/software)
-- [arduino-esp32](https://github.com/espressif/arduino-esp32
+- [arduino-esp32](https://github.com/espressif/arduino-esp32)
 
 1º Connect the board via USB to the PC.
 
