@@ -1,14 +1,13 @@
 # Esp32_ST7789_Pacman
  Remake of the famous pac-man, with some improvements
 
-<img src="doc/pac-man top.jpeg" width=640>
+<img src="https://github.com/pdropes/Esp32---Pac-man/blob/main/doc/pac-man%20top.jpg" width=1024>
 
 !!! NOTICE !!!
 
 
 ## Prepare
 - This board was designed to be possible to do at home; the battery is the BL-5B or BL-5C, and the speaker is 32ohms from the 3310.
-
 - In difficulty to find all components, the layout must be changed to support different ones.
 
 
