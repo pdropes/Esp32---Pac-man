@@ -46,4 +46,10 @@ Changes:
 - Hiscore saved in internal flash
 - Slide-switch to select mode "off/charge" "on/mute" "on/sound"
 
+Revision 1:
+- "Battery" font identical to the rest of the text
+- In DEMO mode, the score always remains visible from the last game
+- Added missing "Adafruit_BusIO" library
+
+
 It was my first time programming in C, it may not be perfect.
