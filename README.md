@@ -47,7 +47,7 @@ Changes:
 - Slide-switch to select mode "off/charge" "on/mute" "on/sound"
 
 Revision 1:
-- "Battery" font identical to the rest of the text
+- "Battery" font, identical to the rest of the text
 - In DEMO mode, the score always remains visible from the last game
 - Added missing "Adafruit_BusIO" library
 
